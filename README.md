@@ -4,7 +4,7 @@ Assets and data files for [armedifaiz.github.io](https://armedifaiz.github.io).
 
 Accessed via `raw.githubusercontent.com` — zero rate limit, no API keys.
 
-## Structure
+# Structure
 
 ```
 photos/          — Profile photos
@@ -18,7 +18,7 @@ sling-icon.png   — Sling skill icon
 index.json       — Quick summary
 ```
 
-## Usage
+# Usage
 
 ```bash
 # Fetch data
@@ -28,6 +28,6 @@ curl -O https://raw.githubusercontent.com/armedifaiz/portfolio-data/main/photos/
 curl -O https://raw.githubusercontent.com/armedifaiz/portfolio-data/main/photos/Z62_0073_verified.jpg
 ```
 
-## Update
+# Update
 
 Commit and push to `main`. Changes are available immediately on `raw.githubusercontent.com`.
