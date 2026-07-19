@@ -7,15 +7,15 @@ Accessed via `raw.githubusercontent.com` — zero rate limit, no API keys.
 # Structure
 
 ```
-photos/          — Profile photos
-  data.json      — Photo metadata
-certificates/    — Certificate images
-  data.json      — Certificate metadata
-experience.json  — Work experience
-skills.json      — Skills list
-socials.json     — Social links
-sling-icon.png   — Sling skill icon
-index.json       — Quick summary
+photos/          # Profile photos
+  data.json      # Photo metadata
+certificates/    # Certificate images
+  data.json      # Certificate metadata
+experience.json  # Work experience
+skills.json      # Skills list
+socials.json     # Social links
+sling-icon.png   # Sling skill icon
+index.json       # Quick summary
 ```
 
 # Usage
