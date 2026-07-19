@@ -2,7 +2,6 @@
 
 Assets and data files for [armedifaiz.github.io](https://armedifaiz.github.io).
 
-Accessed via `raw.githubusercontent.com` — zero rate limit, no API keys.
 
 # Structure
 
