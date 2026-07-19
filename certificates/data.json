@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "filename": "1_verified.jpg",
+    "title": "Google Cloud Certified Associate Data Practitioner",
+    "issuer": "Google Cloud",
+    "date": "",
+    "description": "",
+    "category": "Cloud"
+  },
+  {
+    "id": "2",
+    "filename": "2_verified.jpg",
+    "title": "Bangkit Academy Certificate - Mobile Development",
+    "issuer": "Bangkit Academy",
+    "date": "",
+    "description": "",
+    "category": "Mobile"
+  },
+  {
+    "id": "3",
+    "filename": "3_verified.jpg",
+    "title": "Belajar Pengembangan Aplikasi Android Intermediate",
+    "issuer": "Dicoding",
+    "date": "",
+    "description": "",
+    "category": "Mobile"
+  },
+  {
+    "id": "4",
+    "filename": "4_verified.jpg",
+    "title": "Github Foundations",
+    "issuer": "Github",
+    "date": "2026-07-11",
+    "description": "GitHub Foundations Certification",
+    "category": "Version Control"
+  },
+  {
+    "id": "5",
+    "filename": "5_verified.jpg",
+    "title": "Web Development Bootcamp (Node.js Path) - Kotakode x Progate",
+    "issuer": "Kotakode x Progate",
+    "date": "",
+    "description": "",
+    "category": "Web"
+  }
+]
