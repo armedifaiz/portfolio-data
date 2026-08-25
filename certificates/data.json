@@ -37,11 +37,11 @@
   },
   {
     "id": "5",
-    "filename": "5_verified.jpg",
-    "title": "Web Development Bootcamp (Node.js Path) - Kotakode x Progate",
-    "issuer": "Kotakode x Progate",
+    "filename": "6_verified.png",
+    "title": "Github Foundation",
+    "issuer": "Microsoft",
     "date": "",
     "description": "",
-    "category": "Web"
-  }
+    "category": "DVCS"
+  } 
 ]
